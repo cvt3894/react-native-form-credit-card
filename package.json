@@ -1,9 +1,9 @@
 {
   "author": {
-    "name": "sbycrosz, cvthien"
+    "name": "cvthien"
   },
   "bugs": {
-    "url": "https://github.com/cvt3894/react-native-form-credit-card/issues"
+    "url": "https://github.com/cvt3894/react-native-credit-card-form/issues"
   },
   "dependencies": {
     "card-validator": "^3.0.0",
@@ -23,7 +23,7 @@
     "eslint-plugin-react": "^4.2.0"
   },
   "directories": {},
-  "homepage": "https://github.com/cvt3894/react-native-form-credit-card#readme",
+  "homepage": "https://github.com/cvt3894/react-native-credit-card-form#readme",
   "keywords": [
     "react-native",
     "ios",
@@ -41,11 +41,11 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "name": "react-native-form-credit-card",
+  "name": "react-native-credit-card-form",
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cvt3894/react-native-form-credit-card"
+    "url": "git+https://github.com/cvt3894/react-native-credit-card-form"
   },
   "scripts": {
     "lint": "eslint --ext .js .",
